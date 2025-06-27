@@ -4,7 +4,7 @@ How to Activate and Manage Your Home Depot Credit Card
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3RndWlkZWxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#f96302; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3RndWlkZWxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Your Home Depot Card
         </a>
     </div>
@@ -90,7 +90,7 @@ Payment Methods Available
 - **Mail payments** with checks/money orders
 - **In-store** payments at any Home Depot location
 
-My Experience Using Homedepot.com/mycard
+My Experience 
 -----------------------------------------
 
 I activated my Home Depot credit card via the online portal, and the process was seamless. From entering my details to receiving confirmation, it took under five minutes. Since then, I’ve used the site regularly to track my purchases and make payments. The autopay feature has been a lifesaver, and I’ve also taken advantage of financing offers for large purchases. It’s secure, intuitive, and efficient.
