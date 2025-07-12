@@ -4,7 +4,7 @@ How to Activate and Manage Your Home Depot Credit Card
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?3X7UunD01l83829aIzYvqTuz13fBLO1DThmsTGpurq2zY7FywsPCBW8p07toN9KhQH7XY" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Your Home Depot Card
         </a>
     </div>
@@ -114,13 +114,13 @@ Your Home Depot credit card can be a valuable tool for both everyday shopping an
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#f96302; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?3X7UunD01l83829aIzYvqTuz13fBLO1DThmsTGpurq2zY7FywsPCBW8p07toN9KhQH7XY" style="background-color:#f96302; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate Card Now
         </a>
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?3X7UunD01l83829aIzYvqTuz13fBLO1DThmsTGpurq2zY7FywsPCBW8p07toN9KhQH7XY" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Sign In to Manage Account
         </a>
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?3X7UunD01l83829aIzYvqTuz13fBLO1DThmsTGpurq2zY7FywsPCBW8p07toN9KhQH7XY" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Credit Card Center
         </a>
     </div>
